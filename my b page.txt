@@ -1,0 +1,30 @@
+<!Doctype html>
+    <html>
+        <head>
+            <title>My best-bio</title>
+             <link href="style.css" type="text/css" rel="stylesheet">
+        </head>
+        <body>
+            <div>
+         <b><h2>Roblox bio</h2></b>
+            <h2>Name:r box</h2>
+            <h3>Age:11</h3>
+            <h2>Hobbies:playing soccer & gaming</h2>
+            </div>
+            
+                
+                   
+                        
+                    
+                        
+                
+                        
+                        
+            
+                        
+                            
+        </body>
+            
+
+        
+    </html>
